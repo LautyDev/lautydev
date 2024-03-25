@@ -1,7 +1,7 @@
 <h2 align="center">Hi!<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50"> My name is LautyDev, and I specialize in web, software, and game development. :rocket:</h2>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=lautydev&label=Profile%20views&color=dd0026&style=flat-square" alt="LautyDev" /></p>
 <p align="center"><img src="https://raw.githubusercontent.com/LautyDev/LautyDev/main/assets/separator.png" alt="Separator" /></p>
-<img align="right" src="https://discord-readme-badge.vercel.app/api?id=656842811496333322">
+<a href="https://discord.com/users/656842811496333322" target="blank"><img align="right" src="https://discord-readme-badge.vercel.app/api?id=656842811496333322"></a>
 
 -   🔭 I’m currently working on **[Precise Code Solutions](https://precisecode.dev)**, **[FNLB](https://fnlb.net)** and **[AgroLink](https://github.com/AgroLink-Solutions)**
 -   👨‍💻 My website **[lauty.dev](https://lauty.dev)**
