@@ -14,7 +14,7 @@
 <a href="mailto:git@lauty.dev" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="45" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://github.com/LautyDev" target="blank"><img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,js,html,css,sass,androidstudio,arduino,bash,npm,pnpm,bun,bootstrap,cpp,cloudflare,dart,deno,discord,bots,discordjs,express,flutter,git,github,githubactions,linux,windows,powershell,md,mongodb,firebase,netlify,py,django,react,tensorflow,unity,vscode,replit,workers,figma&perline=17" width="100%"></a>
+<a href="https://github.com/LautyDev" target="blank"><img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,js,html,css,sass,androidstudio,arduino,bash,npm,pnpm,bun,bootstrap,cpp,cloudflare,dart,deno,discord,bots,discordjs,express,flutter,git,github,githubactions,linux,windows,powershell,md,mongodb,firebase,netlify,vercel,py,django,react,tensorflow,unity,vscode,replit,workers,figma&perline=17" width="100%"></a>
 
 <p align="center"><img src="https://raw.githubusercontent.com/LautyDev/LautyDev/main/assets/separator.png" alt="Separator" /></p>
 <p align="center">
